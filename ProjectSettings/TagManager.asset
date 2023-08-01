@@ -1,0 +1,65 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Box1.1
+  - Box1.2
+  - Box1.3
+  - Box1.5
+  - Box1.6
+  - Box1.7
+  - Box1.8
+  - Box
+  - Box1.4
+  - Box2.1
+  - Box2.2
+  - Box2.3
+  - Box2.4
+  - Box2.5
+  - Box2.6
+  - Box2.7
+  - Box2.8
+  - Bullet
+  - Bullet2
+  - Bullet3
+  - enemy
+  - Boss
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
